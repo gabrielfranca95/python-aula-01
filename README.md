@@ -1,7 +1,7 @@
 # python-aula-01
 
 <p align="center">
-  <img width="460" height="250" src="https://user-images.githubusercontent.com/57453192/87078882-a5277500-c1fb-11ea-9b38-7bdd1f7ce09e.png">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/57453192/87078882-a5277500-c1fb-11ea-9b38-7bdd1f7ce09e.png">
 </p>
 
 
