@@ -4,11 +4,9 @@
   <img width="500" height="300" src="https://user-images.githubusercontent.com/57453192/87078882-a5277500-c1fb-11ea-9b38-7bdd1f7ce09e.png">
 </p>
 
-
-
 ### Aula inicial de python
-Python é uma linguagem de programação de alto nível, interpretada, de script,
-imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991
+Python é uma linguagem de programação de alto nível, interpretada, de script
+,imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991
 ## Funcionamento
 Com python, você é capaz de criar programas, jogos, bots entre outros a partir de comandos interpretados por
 linhas de código e visualizar o resultado, as linhas são contidas de comandos interpretados por palavras separadas para realizar o comando específico
