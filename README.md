@@ -17,6 +17,7 @@ seguindo o exemplo para que possa ser interpretado um texto no terminal, além d
 as aspas sua mensagem.  
 #### Exemplo: 
 
+
 ```
 print("sua mensagem")
 ```
