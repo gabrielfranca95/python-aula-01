@@ -14,7 +14,7 @@ linhas de código e visualizar o resultado, as linhas são contidas de comandos 
 programa, que tenha como objetivo final mostrar um texto específico. Ele irá possuir uma forma de ativação seja um botão ou outra coisa parecida,
 nesses casos utiliza-se a palavra separada pela linguagem python conhecida como"print" para exibir tal mensagem de texto ou outra variável desejada, 
 seguindo o exemplo para que possa ser interpretado um texto no terminal, além da palvra "print" deverá ser usado um abre e fecha parenteses contendo aspas dentro, e entre 
-as aspas sua mensagem.  
+as aspas sua mensagem..
 #### Exemplo: 
 
 
